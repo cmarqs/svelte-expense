@@ -1,0 +1,8 @@
+:root{
+--main-color: rgb(115, 210, 164);
+--main-darker-color: rgb(38, 147, 94);
+--secondary-color: rgb(255, 255, 255);
+--secondary-darker-color: rgb(251, 251, 251);
+
+--font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
